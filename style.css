@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  background-color: black;
+  color: white;
+  height: 200px;
+}
+
+header > h1 {
+  text-align: center;
+  padding-top: 50px;
+  font-size: 70px;
+}
+
+header > p {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
